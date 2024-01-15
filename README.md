@@ -1,14 +1,16 @@
 # Essential Links
 
-- [Assignment Links]()
-- [Gradebook]()
-- [Slides]()
-- [Schedule of Topics]()
-- [Professor Office Hours]()
-- [Technical Leader Office Hours]()
-- [Class Discord Channel]()
+*** You must join the class Discord channel and GitHub classroom to access some of these links ***
 
-# Weekly Schedule
+- [Assignment Links](https://github.com/allegheny-college-cmpsc-100-spring-2024/assignments)
+- [Lecture Content](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/)
+- [Schedule of Topics](https://github.com/allegheny-college-cmpsc-100-spring-2024/course-materials/blob/main/schedule.md)
+- [Professor Office Hours](https://calendar.app.google/NJpNppMHngNhqDaM9)
+- [Technical Leader Office Hours](https://discord.com/channels/877320365825749002/889929114868387941)
+- [Class Discord Channel](https://discord.com/channels/877320365825749002/1195131110624071812)
+- Gradebook <- coming soon!
+
+# Syllabus
 
 ## Course Description
 
@@ -30,14 +32,14 @@ Students who earn a C or better in this course will achieve the following object
 
 #### Scientific Process (SP)
 
-* Apply Python programming principles to execute and explain computer code that implements interactive, novel solutions to a variety of computable problems
-* Release code consistent with industry-standard practices using professional grade IDEs, command line tools, and version control tools.
-* Analyze and suggest revisions to existing Python language code to improve or add functionality
+1. Apply Python programming principles to execute and explain computer code that implements interactive, novel solutions to a variety of computable problems
+1. Release code consistent with industry-standard practices using professional grade IDEs, command line tools, and version control tools.
+1. Analyze and suggest revisions to existing Python language code to improve or add functionality
 
 #### Modes of Expression (ME)
 
-* Evaluate the practical and ethical implications of writing computer code and discuss the contexts, perceived effects, and impacts exerted on and by computer code as a cultural force or artifact
-* Design, describe, and implement original projects incorporating standard practices and Python language principles
+1. Evaluate the practical and ethical implications of writing computer code and discuss the contexts, perceived effects, and impacts exerted on and by computer code as a cultural force or artifact
+1. Design, describe, and implement original projects incorporating standard practices and Python language principles
 
 ## Required materials
 
@@ -57,38 +59,40 @@ This course relies on the GitHub, Discord, and Trinket. Your work will be assign
 
 ## Assignments
 
-There are five primary types of assignments in this class: exercises, problem-sets, labs, coding challenges, and quizzes. The grading for these assignments are detailed below. 
+There are five primary types of assignments in this class: exercises, problem-sets, labs, coding challenges, and quizzes. The grading for these assignments are detailed below.
 
 ## Evaluation
 
 *Evaluation criteria are subject to change, but changes will always be made with notice. Changes may include lateral changes, meaning more grading emphasis will be placed on areas where we've spent more time in class. Any other changes will be in the students' favor.*
 
+In this course, you will receive a total out of twenty points that correspond to a letter grade. The first set of criteria are worth two points each. You must achieve *all* requirements in order to receive points in a category.
+
 ### Participation & Expression: Two Point Checkmarks
 
-| Checkmark                         | Requirements                                                                                                                                                                                                                                                                                       |
-| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Attendance                        | Attend at least 80% of class sessions throughout the semseter. If you are late for a session or leave early, this counts as 3/4 of one session.                                                                                                                                                    |
-| Participation & Teamwork          | Participate in class an average of once a week. Participation can include speaking in class (answering a question, asking a question), speaking to the professor one-on-one during open work time, and office hours.<br /><br />Receive a teamwork checkmark on at least 3/4 of group assignments. |
-| Independent Research and Planning | Receive a planning checkmark on at least 3/4 of lab assignments. Use independent research in at least two lab assignments.                                                                                                                                                                         |
-| Reflection                        | Receive reflection checkmark on at least 3/4 of lab assignments.                                                                                                                                                                                                                                   |
-| Exercises & Problem Sets          | Submit attempts for at least 80% of problem sets and 80% of exercises. Pass at least 50% of problem set checks and 50% of exercises.                                                                                                                                                               |
-
-In this course, you will receive a total out of twenty points that correspond to a letter grade. The first set of criteria are worth two points each. You must achieve *all* required objectives in order to receive points in a category.
+| Checkmark                         | Requirements                                                                                                                                                                                                                                                                                                                     |
+| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Attendance                        | Attend at least 80% of class sessions throughout the semseter. If you are late for a session or leave early, this counts as part of one session.                                                                                                                                                                                 |
+| Participation & Teamwork          | Participate in class about once a week. Participation can include speaking in class (answering a question, asking a question), speaking to the professor one-on-one during open work time, and office hours.<br /><br />Receive a teamwork checkmark on at least 3/4 of group assignments. Participate in most group activities. |
+| Independent Research and Planning | Receive a planning checkmark on at least 3/4 of lab assignments. Use independent research in at least two lab assignments.                                                                                                                                                                                                       |
+| Reflection                        | Receive reflection checkmark on at least 3/4 of lab assignments.                                                                                                                                                                                                                                                                 |
+| Exercises & Problem Sets          | Submit attempts for at least 80% of problem sets and 80% of exercises. Pass at least 50% of problem set questions and 50% of exercises.                                                                                                                                                                                          |
 
 ### Python Fundamentals: One Point Checkmarks
 
-| Category          | Lab | Timed |
-| ----------------- | --- | ----- |
-| variables         | 3   | 3     |
-| lists             | 2   | 2     |
-| while loops       | 2   | 2     |
-| for loops         | 2   | 2     |
-| math & logic      | 2   | 2     |
-| if-else           | 2   | 2     |
-| functions         | 2   | 2     |
-| return            | 2   | 1     |
-| dictionaries      | 1   | 1     |
-| classes & methods | 1   | 1     |
+In order to receive a point for a given Python concept, you must correctly answer 50% of quiz questions related to that concept. You must also receive the following total number of checkmarks in the category in labs and coding challenges. In order to get the point for a given concept, again, you must achieve ALL of the described objectives for that concept.
+
+| Python Concept    | Lab | Challenge |
+| ----------------- | --- | --------- |
+| variables         | 3   | 3         |
+| lists             | 2   | 2         |
+| while loops       | 2   | 2         |
+| for loops         | 2   | 2         |
+| math & logic      | 2   | 2         |
+| if-else           | 2   | 2         |
+| functions         | 2   | 2         |
+| return            | 2   | 1         |
+| dictionaries      | 1   | 1         |
+| classes & methods | 1   | 1         |
 
 ### Letter Grade Scale
 
@@ -108,9 +112,27 @@ The following points received out of twenty correspond to the following letter g
 | 11    | **D**  |
 | <=10  | **F**  |
 
-### Automated Grading
+### Grading Process & Late Work
 
+#### Problem Sets & Exercises
 
+Problem sets and exercises will be automatically graded using GatorGrade software, but professor will double check a random subset of assignments to verify the grader's results. GatorGrade results for these assigments can be considred final two weeks after submission.
+
+Occassionally, the grader will incorrectly fail an assignment. If you think this has happened, let me know and I'll address it. 
+
+These assignments generally have two deadlines: the initial submit deadline listed in GitHub and the final grading deadline one week later. You should submit a trinket link or push a commit by the submit deadline, but you will have until one week later to pass the assignment objectives for full credit.
+
+Late work is accepted for parital credit up to two weeks after the final grading deadline.
+
+#### Labs & Coding Challenges
+
+Labs and Coding Challenges will be graded using a combination of automated grading and professor's grading. The automated portion of your grade may be posted before the professor has finalized it, and grades for these assignments can be considered final once professor's grading is posted.
+
+Every student can request a one-week extension on up to two coding challenges or labs, no explanation necessary.
+
+Every student can request to resubmit up to two individual labs within two weeks of receiving their initial grade.
+
+Group labs won't be granted extensions for coding requiremetns, as this will affect the whole group. However, you may use one of your individual lab extensions for a group lab's reflection requiremetns.
 
 ## Course Policies
 
