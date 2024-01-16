@@ -3,7 +3,7 @@
 ***You must join the class Discord channel and GitHub classroom to access some of these links***
 
 - [Assignment Links](https://github.com/allegheny-college-cmpsc-100-spring-2024/assignments)
-- [Lecture Content](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/)
+- [Lecture Content](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/?tab=readme-ov-file#lecture-content)
 - [Schedule of Topics](https://github.com/allegheny-college-cmpsc-100-spring-2024/course-materials/blob/main/schedule.md)
 - [Professor Office Hours](https://calendar.app.google/NJpNppMHngNhqDaM9)
 - [Technical Leader Office Hours](https://discord.com/channels/877320365825749002/889929114868387941)
