@@ -1,6 +1,6 @@
 # Essential Links
 
-*** You must join the class Discord channel and GitHub classroom to access some of these links ***
+***You must join the class Discord channel and GitHub classroom to access some of these links***
 
 - [Assignment Links](https://github.com/allegheny-college-cmpsc-100-spring-2024/assignments)
 - [Lecture Content](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/)
