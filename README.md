@@ -47,7 +47,7 @@ Students who earn a C or better in this course will achieve the following object
 
 A department-approved laptop, with an adequate charge, is required in every class session.
 
-The laptop requirements are avaialable [here](https://www.cs.allegheny.edu/resources/laptops/#:~:text=Department%20Approved%20Laptops&text=In%20order%20to%20successfully%20complete,10%20or%2011%2064%2Dbit). If you don't have a laptop that meets these specifications, you can request to borrow one using [this form](https://docs.google.com/forms/d/e/1FAIpQLSds-N61LLpYpZZBunlR_JigGH9eOBxvZfpEV71o73DyhTDQvw/viewform). The department has a limited number of loaner laptops available, so the earlier you request, the better!
+The laptop requirements are avaialable [here](https://www.cs.allegheny.edu/resources/laptops/#:~:text=Department%20Approved%20Laptops&text=In%20order%20to%20successfully%20complete,10%20or%2011%2064%2Dbit). If you don't have a laptop that meets these specifications, you can request to borrow one using [this form](https://docs.google.com/forms/d/e/1FAIpQLSdGS7Z2kMojdCMHe6fp2ovoc5XucCdL1yuynk3wPnK7MiFjDw/viewform). The department has a limited number of loaner laptops available, so the earlier you request, the better!
 
 ### Textbook(s)
 
