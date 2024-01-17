@@ -10,6 +10,14 @@
 - [Class Discord Channel](https://discord.com/channels/877320365825749002/1195131110624071812)
 - Gradebook <- coming soon!
 
+## Professor Contact
+
+Morgan Green <br>
+mgreen@allegheny.edu <br>
+Alden Hall, #209
+
+I respond to emails within one business day. 
+
 # Syllabus
 
 ## Course Description
