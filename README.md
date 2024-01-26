@@ -130,7 +130,7 @@ Occassionally, the grader will incorrectly fail an assignment. If you think this
 
 These assignments generally have two deadlines: the initial submit deadline listed in GitHub and the final grading deadline one week later. You should submit a trinket link or push a commit by the submit deadline, but you will have until one week later to pass the assignment objectives for full credit.
 
-Late work is accepted for parital credit up to two weeks after the final grading deadline.
+Late work is accepted for partial credit up to two weeks after the final grading deadline.
 
 #### Labs & Coding Challenges
 
@@ -138,9 +138,11 @@ Labs and Coding Challenges will be graded using a combination of automated gradi
 
 Every student can request a one-week extension on up to two coding challenges or labs, no explanation necessary.
 
+Thorough code comments are a critical part of receiving credit for labs and coding challenges. In professional contexts, comments are used more sparingly. In this class, to facilitate learning, you should **document every line of code with comments.** A failure to include these explanatory comments may lead to loss of credit, regardless of code quality. 
+
 Every student can request to resubmit up to two individual labs within two weeks of receiving their initial grade.
 
-Group labs won't be granted extensions for coding requiremetns, as this will affect the whole group. However, you may use one of your individual lab extensions for a group lab's reflection requiremetns.
+Group labs won't be granted extensions for coding requirements, as this will affect the whole group. However, you may use one of your individual lab extensions for a group lab's reflection requiremetns.
 
 ## Course Policies
 
