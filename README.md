@@ -28,7 +28,7 @@ An introduction to the principles of computer science with an emphasis on creati
 
 ### Additional Description
 
-This section of CMPSC-100 uses the VPython library to facilitate a creative and visual approach to learning Python. VPython is a lightweight 3D module that allows students to create three-dimensional image renderings with just a few lines of code. Because this class approaches coding from a creative angle, it emphasizes not just the how of coding but the why behind creating one project versus another. The class includes weekly discussions of assigned materials. These materials might include artworks made using code, articles about the tech industry within a larger social context, and other media that illuminate how decisions made by coders can influence the world around us.
+This section of CMPSC-100 uses the VPython library to facilitate a creative and visual approach to learning Python. VPython is a lightweight 3D module that allows students to create three-dimensional image renderings with just a few lines of code. Because this class approaches coding from a creative angle, it emphasizes not just the how of coding but the why behind creating one project versus another. 
 
 This class focuses on applications right away, operating on the premise that the ability to write functional code as soon as possible will facilitate future abstract and theoretical understanding. In other words, we approach coding as something best learned by doing. The way computer science is presented often includes a sort of genius mystique that excludes a lot of people. In reality, no one knows everything there is to know about computer science. In addition, programming languages are created by humans with human flaws.
 
@@ -158,7 +158,7 @@ Students who are in need of mental health support can access free, confidential 
 
 ### Assistance with course concepts
 
-Students who struggle to understand knowledge and skills defined in this course are encouraged to seek assistance from the course instructor and technical leaders. Students who need the course instructor’s or TL's assistance can schedule an appointment through their Office Hour Calendar near the top of this page.
+Students who struggle to understand knowledge and skills defined in this course are encouraged to seek assistance from the course instructor and technical leaders. Students who need the course instructor’s assistance can schedule an appointment through their Office Hour Calendar near the top of this page. TL office hours are available in the class Discord channel. 
 
 ### Academic Alerts
 
