@@ -140,6 +140,8 @@ Every student can request a one-week extension on up to two coding challenges or
 
 Thorough code comments are a critical part of receiving credit for labs and coding challenges. In professional contexts, comments are used more sparingly. In this class, to facilitate learning, you should **document every line of code with comments.** A failure to include these explanatory comments may lead to loss of credit, regardless of code quality. 
 
+The professor may also ask you to verbally explain your code in order to receive credit for it. 
+
 Every student can request to resubmit up to two individual labs within two weeks of receiving their initial grade.
 
 Group labs won't be granted extensions for coding requirements, as this will affect the whole group. However, you may use one of your individual lab extensions for a group lab's reflection requiremetns.
