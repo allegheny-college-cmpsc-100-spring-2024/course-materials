@@ -1,14 +1,14 @@
 # Schedule of Topics
 
-***Schedule is subject to change***
+_**Schedule is subject to change**_
 
 | Week               | Topic                           |
 | ------------------ | ------------------------------- |
 | 1 (Jan 15 - 21)    | Variables, Operators, Datatypes |
 | 2 (Jan 22 - 28)    | Intro to VPython & X, Y, Z      |
-| 3 (Jan 29 - Feb 4) | For-loops & Lists               |
-| 4 (Feb 5 - 11)     | For-loops & Lists cont'd        |
-| 5 (Feb 12 - 18)    | While-loops                     |
+| 3 (Jan 29 - Feb 4) | While-loops                     |
+| 4 (Feb 5 - 11)     | For-loops & lists               |
+| 5 (Feb 12 - 18)    | For-loops & Lists cont'd        |
 | 6 (Feb 19 - 25)    | Conditionals & Logic            |
 | 7 (Feb 26 - Mar 3) | Functions                       |
 | SPRING BREAK       | SPRING BREAK                    |
