@@ -87,7 +87,9 @@ In this course, you will receive a total out of twenty points that correspond to
 
 ### Python Fundamentals: One Point Checkmarks
 
-In order to receive a point for a given Python concept, you must correctly answer 50% of quiz questions related to that concept. You must also receive the following total number of checkmarks in the category in labs and coding challenges. In order to get the point for a given concept, again, you must achieve ALL of the described objectives for that concept.
+To receive a point for a given Python concept, you must correctly answer 50% of quiz questions related to that concept. You must also receive the following total number of checkmarks in the category in labs and coding challenges. 
+
+To get the point for a given concept, again, you must achieve ALL of the described objectives for that concept: lab points, coding challenge points, and 50% correct quiz questions. 
 
 | Python Concept    | Lab | Challenge |
 | ----------------- | --- | --------- |
