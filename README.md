@@ -1,5 +1,6 @@
 
-# CMPSC-100-00, Computational Expression, Syllabus
+# Syllabus
+## CMPSC-100-00, Computational Expression
 
 ## Professor Contact
 
