@@ -1,14 +1,5 @@
-# Essential Links
 
-_**You must join the class Discord channel and GitHub classroom to access some of these links**_
-
-- [Assignment Links](https://github.com/allegheny-college-cmpsc-100-spring-2024/assignments)
-- [Lecture Content](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/?tab=readme-ov-file#lecture-content)
-- [Schedule of Topics](https://github.com/allegheny-college-cmpsc-100-spring-2024/course-materials/blob/main/schedule.md)
-- [Professor Office Hours](https://calendar.app.google/NJpNppMHngNhqDaM9) \<-- please make an appointment to guarantee meeting
-- [Technical Leader Office Hours](https://discord.com/channels/877320365825749002/889929114868387941)
-- [Class Discord Channel](https://discord.com/channels/877320365825749002/1195131110624071812)
-- Gradebook \<- coming soon!
+# CMPSC-100-00, Computational Expression, Syllabus
 
 ## Professor Contact
 
@@ -18,9 +9,9 @@ mgreen@allegheny.edu
 
 Alden Hall, #209
 
-I respond to emails within one business day.
+Office Hours: Thurs 2:30PM - 5:30 PM, Fri 9:00 AM - 12:00PM
 
-# Syllabus
+I respond to emails within one business day.
 
 ## Course Description
 
