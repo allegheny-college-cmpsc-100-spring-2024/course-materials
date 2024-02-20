@@ -8,7 +8,7 @@ _**You must join the class Discord channel and GitHub classroom to access some o
 - [Professor Office Hours](https://calendar.app.google/NJpNppMHngNhqDaM9) \<-- please make an appointment to guarantee meeting
 - [Technical Leader Office Hours](https://discord.com/channels/877320365825749002/889929114868387941)
 - [Class Discord Channel](https://discord.com/channels/877320365825749002/1195131110624071812)
-- Gradebook \<- coming soon!
+- [Gradebook](https://classroom.github.com/a/7dLK4j3-)
 
 ## Professor Contact
 
