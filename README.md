@@ -84,9 +84,7 @@ In this course, you will receive a total out of twenty points that correspond to
 | Checkmark                | Requirements                                                                                                                                                                                                 |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Attendance               | Attend at least 80% of class sessions throughout the semseter. If you are late for a session or leave early, this counts as part of one session.                                                             |
-| Participation & Teamwork | Participate in class about once a week. Participation can include speaking in class (answering a question, asking a question), speaking to the professor one-on-one during open work time, and office hours. |
-
-Receive a teamwork checkmark on at least 3/4 of group assignments. Participate in most group activities. Share at least one lab with the class during the semester. |
+| Participation & Teamwork | Participate in class about once a week. Participation can include speaking in class (answering a question, asking a question), speaking to the professor one-on-one during open work time, and office hours. Receive a teamwork checkmark on at least 3/4 of group assignments. Participate in most group activities. Share at least one lab with the class during the semester. |
 | Independent Research and Planning | Receive a planning checkmark on at least 3/4 of lab assignments. Use independent research in at least two lab assignments. |
 | Reflection | Receive reflection checkmark on at least 3/4 of lab assignments. |
 | Exercises & Problem Sets | Submit attempts for at least 80% of problem sets and 80% of exercises. Pass at least 50% of problem set questions and 50% of exercises. |
