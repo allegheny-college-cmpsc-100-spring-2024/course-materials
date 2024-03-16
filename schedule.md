@@ -20,4 +20,4 @@ _**Schedule is subject to change**_
 | 13 (April 15 - 21) | Project Work                    |
 | 14 (April 22 - 28) | Project Work                    |
 
-Create Markdown table with one row per week: Jan 15 - April 29
+
