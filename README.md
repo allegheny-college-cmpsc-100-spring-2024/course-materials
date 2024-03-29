@@ -89,9 +89,9 @@ In this course, you will receive a total out of twenty points that correspond to
 | Reflection | Receive reflection checkmark on at least 3/4 of lab assignments. |
 | Exercises & Problem Sets | Submit attempts for at least 80% of problem sets and 80% of exercises. Pass at least 50% of problem set questions and 50% of exercises. |
 
-### Python Fundamentals: One Point Checkmarks
+### Coding Fundamentals: One Point Checkmarks
 
-To receive a point for a given Python concept, you must correctly answer 50% of quiz questions related to that concept. You must also receive the requried number of checkmarks in the category in labs and coding challenges (see table below).
+To receive a point for a given coding concept, you must correctly answer 50% of quiz questions related to that concept. You must also receive the requried number of checkmarks in the category in labs and coding challenges (see table below).
 
 To get the point for a given concept, again, you must achieve ALL of the described objectives for that concept: lab points, coding challenge points, and 50% correct quiz questions.
 
@@ -103,10 +103,10 @@ To get the point for a given concept, again, you must achieve ALL of the describ
 | for loops         | 2   | 2         |
 | math & logic      | 2   | 2         |
 | if-else           | 2   | 2         |
-| functions         | 2   | 2         |
-| return            | 2   | 1         |
+| functions         | 3   | 3         |
 | dictionaries      | 1   | 1         |
 | classes & methods | 1   | 1         |
+| terminal commands | 1   | 0         |
 
 ### Letter Grade Scale
 
