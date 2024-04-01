@@ -95,7 +95,7 @@ To receive a point for a given coding concept, you must correctly answer 50% of 
 
 To get the point for a given concept, again, you must achieve ALL of the described objectives for that concept: lab points, coding challenge points, and 50% correct quiz questions.
 
-| Python Concept    | Lab | Challenge |
+| Coding Concept    | Lab | Challenge |
 | ----------------- | --- | --------- |
 | variables         | 3   | 3         |
 | lists             | 2   | 2         |
