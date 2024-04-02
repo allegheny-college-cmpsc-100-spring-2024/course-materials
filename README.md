@@ -80,18 +80,18 @@ _Evaluation criteria are subject to change, but changes will always be made with
 In this course, you will receive a total out of twenty points that correspond to a letter grade. The first set of criteria are worth two points each.
 
 > \[!NOTE\]  
-> The evaluation points have been updated to better reflect course emphasis and student effort. You can reference the original evaluation system here, and let the professor know if you want to be reevaluated per the previous scheme.
+> The evaluation points have been updated to better reflect course emphasis and student effort. You can reference the original evaluation system [here](https://github.com/allegheny-college-cmpsc-100-spring-2024/course-materials/blob/og-evaluation/README.md#evaluation), and let the professor know if you want to be reevaluated per the previous scheme.
 
 ### Participation & Expression
 
-| Checkmark                | Requirements                                                                                                                                     | Points |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
-| Attendance               | Attend at least 80% of class sessions throughout the semseter. If you are late for a session or leave early, this counts as part of one session. | 2      |
-| Participation & Teamwork | Participate in class about once a week. Participation can include contributing to Discord threads, speaking in class (answering a question, asking a question), speaking to the professor one-on-one during open work time, attending professor office hours. You can also receive credit by sharing labs and receiving teamwork checkmarks on group labs. | 2 |
-| Independent Research and Planning | Receive a planning checkmark on at least 3/4 of lab assignments. Use independent research in at least two lab assignments. | 1 |
-| Reflection | Receive reflection checkmark on at least 3/4 of lab assignments. | 1 |
-| Exercises  | Pass at least 50% of execises.  | 2 |
-| Problem Sets | Answer at least 50% of problem set questions correctly.  | 2 |
+| Checkmark                         | Requirements                                                                                                                                                                                                                                                                                                                                               | Points |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| Attendance                        | Attend at least 80% of class sessions throughout the semseter. If you are late for a session or leave early, this counts as part of one session.                                                                                                                                                                                                           | 2      |
+| Participation & Teamwork          | Participate in class about once a week. Participation can include contributing to Discord threads, speaking in class (answering a question, asking a question), speaking to the professor one-on-one during open work time, attending professor office hours. You can also receive credit by sharing labs and receiving teamwork checkmarks on group labs. | 2      |
+| Independent Research and Planning | Receive a planning checkmark on at least 3/4 of lab assignments. Use independent research in at least two lab assignments.                                                                                                                                                                                                                                 | 1      |
+| Reflection                        | Receive reflection checkmark on at least 3/4 of lab assignments.                                                                                                                                                                                                                                                                                           | 1      |
+| Exercises                         | Pass at least 50% of execises.                                                                                                                                                                                                                                                                                                                             | 2      |
+| Problem Sets                      | Answer at least 50% of problem set questions correctly.                                                                                                                                                                                                                                                                                                    | 2      |
 
 ### Coding Fundamentals: One Point Checkmarks
 
