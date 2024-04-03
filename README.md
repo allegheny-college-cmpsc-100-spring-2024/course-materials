@@ -10,6 +10,10 @@ _**You must join the class Discord channel and GitHub classroom to access some o
 - [Class Discord Channel](https://discord.com/channels/877320365825749002/1195131110624071812)
 - [Gradebook](https://classroom.github.com/a/7dLK4j3-)
 
+## Helpful Resources 
+- [VPython Documentation](https://www.glowscript.org/docs/VPythonDocs/index.html)
+- [W3Schools Python](https://www.w3schools.com/python/)
+
 ## Professor Contact
 
 Morgan Green
