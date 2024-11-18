@@ -159,7 +159,7 @@ The professor may also ask you to verbally explain your code in order to receive
 
 Every student can request to resubmit up to two individual labs within two weeks of receiving their initial grade.
 
-Group labs won't be granted extensions for coding requirements, as this will affect the whole group. However, you may use one of your individual lab extensions for a group lab's reflection requiremetns.
+Group labs won't be granted extensions for coding requirements, as this will affect the whole group. However, you may use one of your individual lab extensions for a group lab's reflection requirements.
 
 ## Course Policies
 
